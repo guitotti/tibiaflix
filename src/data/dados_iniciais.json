@@ -1,0 +1,152 @@
+{
+  "categorias": [
+    {
+      "titulo": "Curiosidades e mais...",
+      "link": "https://www.youtube.com/watch?v=-EN7Ou5BtBo",
+      "cor": "#FFD700",
+      
+      "videos": [
+        {
+          "titulo": "Tibia - 25 anos de História e Roleplay",
+          "url": "https://www.youtube.com/watch?v=-EN7Ou5BtBo"
+        },
+        {
+          "titulo": "Voltei a jogar Tibia, e agora?",
+          "url": "https://www.youtube.com/watch?v=ym745KWw9TQ"
+        },
+        {
+          "titulo": "Tibia x OTServer - Qual jogar?",
+          "url": "https://www.youtube.com/watch?v=BJXU0sWfMNo"
+        },
+        {
+          "titulo": "3 'Mistérios' revelados pelo Aniversário de 25 anos do Tibia",
+          "url": "https://www.youtube.com/watch?v=b5PHSYnVHhY"
+        },
+        {
+          "titulo": "Players alcançam level 2000 no Tibia após 24 anos",
+          "url": "https://www.youtube.com/watch?v=EqHaQ7dskfo"
+        },
+        {
+          "titulo": "Player usa montaria mais rara que existe no Tibia",
+          "url": "https://www.youtube.com/watch?v=KEJZMQ5QDTg"
+        },
+        {
+          "titulo": "Itens que nunca apareceram até hoje mas existem no Tibia",
+          "url": "https://www.youtube.com/watch?v=xBvgD5mTizY"
+        },
+        {
+          "titulo": "Players que desapareceram pra sempre no Tibia",
+          "url": "https://www.youtube.com/watch?v=6N-Tuzqb_VI"
+        }        
+      ]
+    },
+    {
+      "titulo": "Elder Druid",
+      "cor": "#00C86F",
+      
+      "videos": [
+        {
+          "titulo": "ELDER DOKIN - PRIMEIROS PASSOS | LEVEL 08-30 | EP 01 (RUSHANDO DRUID)",
+          "url": "https://www.youtube.com/watch?v=5dxA9_zeCpA"
+        },
+        {
+          "titulo": "Como ITEMIZAR CERTO de DRUID do level 8 ao 1000 l Tibia Tips",
+          "url": "https://www.youtube.com/watch?v=mw6Irwa01fI"
+        },
+        {
+          "titulo": "TIBIA - PRINCIPAIS COMBOS DE ED -TUTORIAL COMPLETO",
+          "url": "https://www.youtube.com/watch?v=4aTQ3wwOnwM"
+        },
+        {
+          "titulo": "Dicas para Druid - Como facilitar sua Gameplay",
+          "url": "https://www.youtube.com/watch?v=UjN5ZxAZcng"
+        }, 
+        {
+          "titulo": "QUAIS SETS USAR MAGES - TUTORIAL COMPLETO| RIICKGAMES",
+          "url": "https://www.youtube.com/watch?v=Tqq1-e_yJtI"
+        }
+      ]
+    },
+    {
+      "titulo": "Master Sorcerer",
+      "cor": "#8A2BE2",
+      
+      "videos": [
+        {
+          "titulo": "COMBOS DE MS - TIBIA TUTORIAL | RIICKGAMES",
+          "url": "https://www.youtube.com/watch?v=9haCjc9znUA"
+        },
+        {
+          "titulo": "Sorcerer: Desde LVL 11 até 100 em 6 DIAS - Parte 1 (Dia 1)",
+          "url": "https://www.youtube.com/watch?v=N8MJffHAIjw"
+        },
+        {
+          "titulo": "Como ITEMIZAR CERTO de SORCERER do level 8 ao 1000 l Tibia Tips",
+          "url": "https://www.youtube.com/watch?v=fGy9GSd0oY8"
+        },
+        {
+          "titulo": "TIBIA SUMMER COURT HUNT SOLO - 10 DICAS PARA MASTER SORCERER",
+          "url": "https://www.youtube.com/watch?v=d4xkshMYp5c"
+        },
+        {
+          "titulo": "5 MOTIVOS PRA JOGAR DE SORCERER NO TIBIA",
+          "url": "https://www.youtube.com/watch?v=7NfqpFH-s0c"
+        }
+      ]
+    },
+    {
+      "titulo": "Elite Knight",
+      "cor": "#D2691E",
+      "videos": [
+        {
+          "titulo": "AJUSTES DE VOCAÇÃO NO KNIGHT - Guia de bolso",
+          "url": "https://www.youtube.com/watch?v=RbICuwMkCD8"
+        },
+        {
+          "titulo": "Upando Knight do Zero - Episódio 1 - Level 02 - 13 - Um novo começo (Profit Gigante).",
+          "url": "https://www.youtube.com/watch?v=-bniGnmcbzA"
+        },
+        {
+          "titulo": "TIBIA: COMBOS DE KNIGHT NO TIBIA ( MELHORES MANEIRAS DE USAR )",
+          "url": "https://www.youtube.com/watch?v=ioyJ1t4089E"
+        },
+        {
+          "titulo": "[TIBIA] - RUSHANDO KNIGHT (2XP) (PT1) | 30 - 80 | SKILLS 100+ | DOKIN",
+          "url": "https://www.youtube.com/watch?v=y7FC8g5Ukgw"
+        },
+        {
+          "titulo": "Hunts de Profit level 8 ao 150",
+          "url": "https://www.youtube.com/watch?v=cMUB_cGITvw"
+        }
+        
+      ]
+    },
+    {
+      "titulo": "Royal Paladin",
+      "cor": "#DC143C",
+      
+      "videos": [
+        {
+          "titulo": "Tibia | COMO jogar SOLO de ROYAL PALADIN - Melhores dicas para evoluir sua gameplay!",
+          "url": "https://www.youtube.com/watch?v=fiOeT2MRKrI"
+        },
+        {
+          "titulo": "GUIA DE UP - PALADIN DO LEVEL 40 AO 80",
+          "url": "https://www.youtube.com/watch?v=esX8tIZ2q2U"
+        },
+        {
+          "titulo": "AJUSTE DE VOCAÇÕES - ROYAL PALADIN",
+          "url": "https://www.youtube.com/watch?v=OkfEp4CzbqI"
+        },
+        {
+          "titulo": "GUIA DE UP - PALADIN DO LEVEL 80 AO 100 [TIBIA]",
+          "url": "https://www.youtube.com/watch?v=Bqpgmqvy8PM"
+        },
+        {
+          "titulo": "[TIBIA] Guia SET de PALADIN Level 8 ao 400+ Como Itemizar corretamente?",
+          "url": "https://www.youtube.com/watch?v=Nz8N0mKGbLA"
+        }
+      ]
+    }
+  ]
+}
